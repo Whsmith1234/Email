@@ -1,0 +1,11 @@
+[package]
+name = "hey"
+version = "0.1.0"
+authors = ["acme"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+imap = "3.0.0-alpha.3"
+native-tls = "0.2.7" 
